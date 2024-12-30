@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AiTraffic",
+	"Description": "A plugin for Ai Traffic, using the Chaos Vehicle Plugin and AI Controllers",
+	"Category": "Other",
+	"CreatedBy": "Starcache Studios, LLC",
+	"CreatedByURL": "www.starcachehq.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AiTraffic",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
