@@ -1,6 +1,11 @@
 # Modified Creative Commons Non-Commercial (CC NC)
 https://creativecommons.org/licenses/by-nc/4.0/
 
+# License Information
+Modified CC NC (v4.0), revised 12/30/2024 by Starcache Studios, LLC.
+Modified to include commercial use by Non-Profit Organizations.
+This license is limited only by the regulations set by the State of California and the United States of America.
+
 ## You are free to:
 - Share: copy and redistribute the material in any medium or format
 - Release: As part of any game, plugin, or product that is not for profitable use.
